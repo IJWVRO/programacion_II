@@ -1,9 +1,0 @@
-ignacio,130
-ignacio,0
-ignacio,620
-i,0
-ignacio,200
-i,150
-ignacio,600
-   i,70
-1,120
